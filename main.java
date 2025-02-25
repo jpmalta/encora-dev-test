@@ -3,7 +3,7 @@ import java.util.Set;
 import java.util.ArrayList;
 import java.util.List;
 
-public class SubsetGenerator {
+public class main {
 
     /**
      * A função abaixo faz o seguinte:
