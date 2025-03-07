@@ -1,0 +1,12 @@
+Respostas - prova D
+Dia 07/03/2025 - 13:00 a 16:00
+
+
+
+Qual a disciplina que você mais gostou de cursar na faculdade e por quê? (Responder em português)
+
+A disciplina que eu mais gostei de cursar na faculdade até o momento foi Programação Orientada a Objetos, no quarto semestre. 
+Durante o curso da disciplina o professor nos ajudou a desmistificar o fato de Java ser uma linguagem "difícil", como é enxergado por muitos,
+através de nos ensinar a utilizar a documentação do Java corretamente, e principalmente por nos ensinar a pensar a programação de maneira orientada a objetos.
+Eu sempre gostei de entender como as coisas funcionam, para entender como devo usar da melhor maneira, então ter todo esse aprofundamento em POO, 
+após já estar a utilizando no trabalhado a mais de um ano, foi muito enriquecedor e me fez enxergar o que eu fazia no trabalho de maneira diferente.
